@@ -1,0 +1,191 @@
+body{
+    background-image: url(blue.jpg) ;
+     background-size: 2000px
+    }
+/* }
+....................index.................... */
+#bodyindex{
+    text-align: center;
+}
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:  center;
+    padding: 5px;
+    padding-left: 30px;
+    font-size: 25px;
+    margin: 30px;
+    text-align: center;
+    border: solid rgb(0, 30, 114) 10px;
+    background-color: rgb(38, 38, 77);
+}
+#navbar a{
+    text-decoration: none;
+}
+/* logo need it to be i the middle */
+.smaller {
+    text-align: center;
+    width: 100pt;
+    height: 100pt;}
+#head{
+    width: 50%;
+    margin: auto;
+    border: 2px solid rgb(0, 0, 0);
+}
+/* earth image */
+.space{
+    width: 500px;
+    height: 300px;
+}
+
+h1 {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(245, 199, 142, 0.705);
+    border-radius:  10px;
+}
+
+
+
+.detail {
+    display:flex;
+    justify-content:center;
+    background-color: rgb(165, 177, 194) ;
+    text-align: center;
+}
+
+#what_is_space{
+    color: rgb(151, 151, 202);
+    margin-top: 40px;
+    text-align: center;
+    background-color: src="stars.jpeg";
+}
+/* want to change the padding */
+.visit {
+    color: bisque;
+    background-color: rgb(75, 75, 138);
+    border: solid 4px; 
+    padding: 2px;
+    text-align: center;
+    margin-block: 50px;
+    
+}
+#clicklink{
+    color: rgb(182, 182, 190);
+    hig
+}
+/* need help changed the color of the link */
+
+
+ /* .......................contact.................. */
+
+ .contact1{
+     display: flex;
+     align-items:center:
+ }
+ .pagecon{
+     display:flex;
+     margin-bottom: 10%;
+     border: solid rgb(179, 168, 228);
+     border-style: groove;
+     background-color: blue;
+    }
+
+    
+
+
+ }
+ #conback{
+     background-image: url(blue.jpg) ;
+     background-size: 1500px;
+     background-color: blue;
+ }
+ #contact{
+     text-align: left;
+     color: grey;
+     background-color: rgb(41, 41, 184);
+     align-content: center;
+     width: 200px;
+     padding-left: 30px;
+     margin-left: 10px;
+     margin-right: 420px;
+     border: solid rgba(245, 199, 142, 0.705);
+ }
+.b{
+    color: rgb(62, 62, 104);
+    background-color: azure;
+    width: 200px;
+    border: rgb(182, 24, 24) ;
+    align-content: center;
+    border: solid ;
+    border-style: double;
+    border-color:black;
+    padding:5%;
+}
+
+
+h2{
+    color: rgb(62, 62, 104);
+    background-color: azure;
+    display:flex;
+    justify-content: center;
+}
+ .contacth2{
+     border: grey;
+     margin-right: 80%;
+ }
+
+  
+
+ }
+ #astro{
+     display: flex;
+     justify-content:center;
+     align-items: flex-start;
+     flex-direction:row;
+     flex-wrap:wrap;
+     text-align:center;
+ }
+ /* >>>>>>>>>>>>>>>>>>>>About<<<<<<<<<<<<<<<<<<<<< */
+
+ #about{
+     color: rgb(114, 95, 65);
+     border: solid 4px rgb(100, 110, 238);
+     margin-left: 200px;
+     margin-right: 200px;
+     padding-top: 5px;
+
+ }
+ .aboutd{
+     color: rgb(4, 2, 37);
+     background-color: rgb(118, 150, 238);
+     margin-right: 60%;
+     border-radius: 25px;
+     padding: 5px;
+     border: solid navy
+ }
+
+ .container{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .earth{
+     max-width: 100%;
+    
+ }
+ .container > div{
+     flex-basis: 50%;
+ }
+
+ .aboutt{
+     background-color: rgb(147, 153, 236);
+     
+     
+     
+     margin: 5%;
+     border: solid black;
+
+ }
+
